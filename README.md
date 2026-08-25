@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Feeeenng)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Feeeenng)](https://github.com/stats-organization/github-stats-extended)<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
 <!--
 **Feeeenng/Feeeenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
